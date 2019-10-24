@@ -20,6 +20,9 @@ h1 {
   padding: 1rem;
   width: 100%;
 }
+p {
+  line-height: 2rem;
+}
 a:hover {
   background: blue;
   color: white;
@@ -53,6 +56,7 @@ a:hover {
   font-size: 1rem;
   text-align: center;
   padding-top: 1rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 /*page changes*/
 .btn-class a {
@@ -89,6 +93,7 @@ a:hover {
 .about-page p {
   max-width: 80%;
   margin: auto;
+  font-size: 1.2rem;
 }
 .container-about {
   text-align: center;
